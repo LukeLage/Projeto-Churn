@@ -11,6 +11,8 @@ https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn/data
 Para rodar esse modelo é necessário possuir o Notebook do Jupyter para Python e a biblioteca Anaconda, além das outras instalações citadas abaixo: 
 
 
-```pip install pandas
+```
+pip install pandas
 pip install sklearn
-```pip install feature_engine```
+pip install feature_engine
+```
